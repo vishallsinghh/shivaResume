@@ -319,8 +319,8 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                 <ListItem
                   icon={<FaGlobe />}
                   title="Website:"
-                  value={`https://shivabaliyan.com/`}
-                  link={`https://shivabaliyan.com/`}
+                  value={`https://shivabaliyan.dev/`}
+                  link={`https://shivabaliyan.dev/`}
                 />
               )}
               {/* {social?.skype && (

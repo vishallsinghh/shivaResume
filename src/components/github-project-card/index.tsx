@@ -77,7 +77,7 @@ const GithubProjectCard = ({
     { name: 'HR dashboard for employee attrition', description: 'Built an interactive Power BI dashboard to identify factors contributing to employee attrition', stargazers_count: `5`, forks_count: `1`, language: 'Power BI', html_url: 'https://drive.google.com/drive/folders/1tHgJbI4znOB4Ltl47-hjOsBPmDE86bgO' },
     { name: 'Credit card transaction analysis dashboard', description: 'Analysed transaction data using Python (Pandas, Matplotlib) to detect patterns and anomalies', stargazers_count: `5`, forks_count: `1`, language: 'Python(Pandas, Matplotlib)', html_url: 'https://drive.google.com/drive/folders/1GTgjmAlS4FK_66Q6GyBXvK9vyZlCDZKc' },
     { name: 'Diwali sales analysis for personalised campaigning', description: 'Performed customer segmentation based on Gender, Age, City, Job-category, marital status, etc using Pandas.', stargazers_count: `4`, forks_count: `1`, language: 'Python(Pandas, Matplotlib)', html_url: 'https://drive.google.com/drive/folders/12R66_wQV6SRrX-jqH_8vYvbA4dBPuMa9' },
-    { name: 'Potential customer prediction model for an educational company', description: 'Developed a machine learning model using Python to predict potential customers for an educational company', stargazers_count: `5`, forks_count: `1`, language: 'Python(Pandas, Matplotlib)', html_url: 'https://drive.google.com/drive/folders/1CM88m_rIgeQIKur815JkwfVPoulL663D' },
+    { name: 'Social media users behaviour EDA', description: 'Generated my own dataset with 40 features using python and performed EDA on top of it.', stargazers_count: `5`, forks_count: `1`, language: 'Python(Pandas, Matplotlib)', html_url: 'https://drive.google.com/drive/folders/1fwMf2HNujUm9GdgZpXiBbnXaBWZWK2sC' },
 
   ]
   const renderProjects = () => {
